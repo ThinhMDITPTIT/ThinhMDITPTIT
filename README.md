@@ -40,7 +40,10 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-
+<h2 align="center">
+  My Github Stats <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<!--
 <div>
   <div>
     <a href="https://github.com/ThinhMDITPTIT">
@@ -53,6 +56,23 @@ Here are some ideas to get you started:
     </a>
   </div>
 </div>
+-->
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ThinhMDITPTIT&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ThinhMDITPTIT&hide=jupyter%20notebook&theme=radical">
+</p>
+
+<p align = "center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ThinhMDITPTIT&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ThinhMDITPTIT&theme=redical">
+</p> 
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
 
 
