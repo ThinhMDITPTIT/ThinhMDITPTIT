@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </a>
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently focusing on **Angular** and practicing **ReactJS and NodeJS** everyday.
+- 🌱 I’m currently focusing on **Angular** and practicing **ReactJS, NodeJS** everyday.
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **International Job Opportunities**
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
